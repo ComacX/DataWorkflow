@@ -3,7 +3,6 @@
 [GTS_Dataflow.pptx](GTS_Dataflow.pptx) is a short, non-technical introduction of the life of vehicle in-cabin data in a Ground Truth System: how the data is collected, labelled, uploaded to the cloud, and then used to measure KPIs and to train algorithms. It explains what happens to the data at each stage and why, without implementation details.
 
 | | |
-|---|---|
 | **Length** | 6 slides, about 5 minutes |
 | **Audience** | Anyone who needs a big picture; no technical background needed |
 | **Format** | PowerPoint slides |
