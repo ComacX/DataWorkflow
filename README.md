@@ -1,6 +1,6 @@
 # A Ground Truth System's Data Workflow Overview
 
-[GTS2_dataflow.pptx](GTS2_dataflow.pptx) is a short, non-technical introduction of the life of vehicle in-cabin data in a Ground Truth System: how the data is collected, labelled, uploaded to the cloud, and then used to measure KPIs and to train algorithms. It explains what happens to the data at each stage and why, without implementation details.
+[GTS_Dataflow.pptx](GTS_Dataflow.pptx) is a short, non-technical introduction of the life of vehicle in-cabin data in a Ground Truth System: how the data is collected, labelled, uploaded to the cloud, and then used to measure KPIs and to train algorithms. It explains what happens to the data at each stage and why, without implementation details.
 
 | | |
 |---|---|
